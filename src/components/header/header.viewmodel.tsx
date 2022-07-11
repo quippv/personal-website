@@ -4,8 +4,7 @@ const useHeaderViewModel = () => {
   const [showSideBar, setShowSideBar] = useState(false);
 
   const handleOpenResume = () => {
-    window &&
-      window.open(process.env.NEXT_PUBLIC_HOST + "/doc/resume.pdf", "_blank");
+    window && window.open("/doc/resume.pdf", "_blank");
   };
 
   const handleShowSideBar = () => {
