@@ -22,3 +22,7 @@ favicon = "favicon.ico"
   [[params.navlinks]]
   name = "projects/"
   url = "projects/"
+
+  [[params.navlinks]]
+  name = "books/"
+  url = "https://book.myusufadp.com"
