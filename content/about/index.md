@@ -3,13 +3,15 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-Adi (b. 1999, Indonesia) is a backend engineer specializing in scalable systems and database optimization. 
+I’m a **_backend-focused_ Software Engineer** with a curiosity-driven approach to learning. I enjoy exploring how systems work at their core and understanding the reasoning behind design and architectural decisions. It’s a process that helps me refine my own development practices and grow as a professional.
 
-He began programming during his university years and worked as a backend engineer in Jakarta while residing in Yogyakarta. Adi earned his BSc in Computer Science from Pembangunan Nasional "Veteran" Yogyakarta University. In his free time, he enjoys creating quirky side projects.
+My experience revolves around building reliable server-side applications and APIs, working across infrastructure and product development. **I try to focus on creating scalable and high-performance systems**, as I believe these are essential for long-term success.
 
-Adi lives by the mantra, “Be curious. Read widely. And brew the coffee.” He particularly loves starting his day with Halu Banana and Gayo Wine Coffee.
+I like to **focus on the fundamentals** because they make it easier to pick up new technologies and frameworks. This mindset also helps me approach challenges outside of backend development, giving me a broader view of the software ecosystem.
 
-Get in touch via [Twitter/X](https://x.com/myusufadp) DM or email [myusufadp@gmail.com](mailto:myusufadp@gmail.com)
+**I work with [NeoVim](https://neovim.io/)** for most of my development and enjoy the simplicity and efficiency it brings. I’m always open to learning from others and sharing experiences, so feel free to reach out—whether here or on [Twitter](https://x.com/myusufadp)!
+
+**I’m based in Yogyakarta, the beautiful city in Indonesia**(🇮🇩), where I work on some exciting projects. While I enjoy the vibrant local scene, I’m also open to remote opportunities that allow me to collaborate with diverse teams worldwide.
 
 
 ---
