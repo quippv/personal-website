@@ -4,8 +4,6 @@ date = "2024-02-14"
 +++
 
 
-## Encryption vs. Hashing
-
 Before to the best practice of me to handle passwords in my projects. I have always heard that "we need to encrypt our password", but the definition is completely wrong. Actually, we don't need to encrypt our password. Maybe my argument will make people angry: "so you can know my password if you don't encrypt it". No, otherwise, I will know your password if I encrypt it. Hmm why? That's why you need to know about encryption and hashing.
 
 ### What is Encryption?
