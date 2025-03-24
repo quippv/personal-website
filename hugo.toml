@@ -18,11 +18,18 @@ favicon = "favicon.ico"
   [[params.navlinks]]
   name = "blogs/"
   url = "blogs/"
-  
+
   [[params.navlinks]]
-  name = "projects/"
-  url = "projects/"
+  name = "resume/"
+  url = "resume/"
+  
+  # [[params.navlinks]]
+  # name = "projects/"
+  # url = "projects/"
 [markup]
   [markup.highlight]
     noClasses = false   
     style = "github"   
+[services]
+  [services.googleAnalytics]
+    ID = "G-DEBTLNBD3F"

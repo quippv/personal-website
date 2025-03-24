@@ -16,15 +16,9 @@ I like to **focus on the fundamentals** because they make it easier to pick up n
 
 ---
 
-### Journeys
-- Product Engineer at [Zero One Group](https://zero-one-group.com/), Aug 2022 - Present
-- Founder Track Apprentice at [Startup Campus](https://startupcampus.id/), Aug 2021 - Dec 2021
-- Web Developer at [Stucel](https://www.stucel.com/), Jan 2021 - Nov 2021
-
-### Achievements and Distinctions. 
-- Top 4 Awardee Startup, [Startup Campus Demo Day 2021](https://startupcampus.id/)
-
 ### Connections 
+
 - [Github](https://github.com/quippv)
 - [Twitter/X](https://x.com/myusufadp)
 - [LinkedIn](https://www.linkedin.com/in/myusufadp/)
+
